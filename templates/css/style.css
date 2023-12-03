@@ -1027,7 +1027,7 @@ body {
 }
 
 .logo {
-  background-image: url(../img/svg/Logo.png);
+  background-image: url(../img/svg/Logo.svg);
   width: 49px;
   height: 49px;
 }
@@ -1146,6 +1146,7 @@ body {
   width: 24px;
   height: 24px;
 }
+
 
 .radio {
   background-image: url(../img/svg/radio.svg);
@@ -4301,4 +4302,13 @@ label {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+}
+
+.logo-sign {
+  text-align: center;
+}
+
+.logo-sign img {
+  width: 250px;
+  height: 250px;
 }
